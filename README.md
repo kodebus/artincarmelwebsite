@@ -1,2 +1,9 @@
 # artincarmelwebsite
-# repo for art in carmel site
+<html>
+  <body>
+    <paragraph>
+      New Repo for art in carmel site
+    </paragraph>
+  </body>
+</html>
+
